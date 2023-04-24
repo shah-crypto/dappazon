@@ -2,81 +2,135 @@
   "items": [
     {
       "id": 1,
-      "name": "Camera",
+      "name": "Ikigai",
       "category": "electronics",
-      "image": "https://ipfs.io/ipfs/QmTYEboq8raiBs7GTUg2yLXB3PMz6HuBNgNfSZBx5Msztg/camera.jpg",
+      "image": "https://m.media-amazon.com/images/I/814L+vq01mL.jpg",
       "price": "1",
       "rating": 4,
       "stock": 10
     },
     {
       "id": 2,
-      "name": "Drone",
+      "name": "The Compound Effect",
       "category": "electronics",
-      "image": "https://ipfs.io/ipfs/QmTYEboq8raiBs7GTUg2yLXB3PMz6HuBNgNfSZBx5Msztg/drone.jpg",
+      "image":"https://m.media-amazon.com/images/I/4142lGvq+qL._SX350_BO1,204,203,200_.jpg",
       "price": "2",
       "rating": 5,
       "stock": 6
     },
     {
       "id": 3,
-      "name": "Headset",
+      "name": "The Psychology of Money",
       "category": "electronics",
-      "image": "https://ipfs.io/ipfs/QmTYEboq8raiBs7GTUg2yLXB3PMz6HuBNgNfSZBx5Msztg/headset.jpg",
+      "image": "https://m.media-amazon.com/images/I/71g2ednj0JL.jpg",
       "price": "0.25",
       "rating": 2,
       "stock": 24
     },
     {
       "id": 4,
-      "name": "Shoes",
-      "category": "clothing",
-      "image": "https://ipfs.io/ipfs/QmTYEboq8raiBs7GTUg2yLXB3PMz6HuBNgNfSZBx5Msztg/shoes.jpg",
+      "name": "Sapiens",
+      "category": "electronics",
+      "image": "https://m.media-amazon.com/images/I/713jIoMO3UL.jpg",
       "price": "0.25",
       "rating": 5,
       "stock": 3
     },
     {
       "id": 5,
-      "name": "Sunglasses",
-      "category": "clothing",
-      "image": "https://ipfs.io/ipfs/QmTYEboq8raiBs7GTUg2yLXB3PMz6HuBNgNfSZBx5Msztg/sunglasses.jpg",
+      "name": "Rich Dad, Poor Dad",
+      "category": "electronics",
+      "image": "https://m.media-amazon.com/images/I/51Hfv2MfNGL._SX331_BO1,204,203,200_.jpg",
       "price": "0.10",
       "rating": 4,
       "stock": 12
     },
     {
       "id": 6,
-      "name": "Watch",
-      "category": "clothing",
-      "image": "https://ipfs.io/ipfs/QmTYEboq8raiBs7GTUg2yLXB3PMz6HuBNgNfSZBx5Msztg/watch.jpg",
+      "name": "Atomic Habits",
+      "category": "electronics",
+      "image": "https://m.media-amazon.com/images/I/91bYsX41DVL.jpg",
       "price": "1.25",
       "rating": 4,
-      "stock": 0
+      "stock": 5
     },
     {
       "id": 7,
-      "name": "Puzzle Cube",
-      "category": "toys",
-      "image": "https://ipfs.io/ipfs/QmTYEboq8raiBs7GTUg2yLXB3PMz6HuBNgNfSZBx5Msztg/cube.jpg",
+      "name": "Mindset",
+      "category": "electronics",
+      "image": "https://m.media-amazon.com/images/I/51Sml2vtu7L.jpg",
       "price": "0.05",
       "rating": 4,
       "stock": 15
     },
     {
       "id": 8,
-      "name": "Train Set",
-      "category": "toys",
-      "image": "https://ipfs.io/ipfs/QmTYEboq8raiBs7GTUg2yLXB3PMz6HuBNgNfSZBx5Msztg/train.jpg",
+      "name": "It Ends With Us",
+      "category": "electronics",
+      "image": "https://m.media-amazon.com/images/I/81s0B6NYXML.jpg",
       "price": "0.20",
       "rating": 4,
-      "stock": 0
+      "stock": 4
     },
     {
       "id": 9,
-      "name": "Robot Set",
-      "category": "toys",
-      "image": "https://ipfs.io/ipfs/QmTYEboq8raiBs7GTUg2yLXB3PMz6HuBNgNfSZBx5Msztg/robots.jpg",
+      "name": "It Starts With Us",
+      "category": "electronics",
+      "image": "https://m.media-amazon.com/images/I/81FummIc2eL.jpg",
+      "price": "0.15",
+      "rating": 3,
+      "stock": 12
+    },
+    {
+      "id": 10,
+      "name": "Think Like a Monk",
+      "category": "electronics",
+      "image": "https://m.media-amazon.com/images/I/81s6DUyQCZL.jpg",
+      "price": "0.15",
+      "rating": 3,
+      "stock": 12
+    },
+    {
+      "id": 11,
+      "name": "Power of Habit",
+      "category": "electronics",
+      "image": "https://m.media-amazon.com/images/I/71ONWR6eXDL.jpg",
+      "price": "0.15",
+      "rating": 3,
+      "stock": 12
+    },
+    {
+      "id": 12,
+      "name": "Drive",
+      "category": "electronics",
+      "image": "https://teambuilding.com/wp-content/uploads/2021/06/Drive.jpg",
+      "price": "0.15",
+      "rating": 3,
+      "stock": 12
+    },
+    {
+      "id": 13,
+      "name": "Think Straight",
+      "category": "electronics",
+      "image": "https://m.media-amazon.com/images/I/41JoC4r8JDL._SY264_BO1,204,203,200_QL40_FMwebp_.jpg",
+      "price": "0.15",
+      "rating": 3,
+      "stock": 12
+    },
+    {
+      "id": 14,
+      "name": "Karma",
+      "category": "electronics",
+      "image": "https://m.media-amazon.com/images/I/51ewXeUdkvL._SY264_BO1,204,203,200_QL40_FMwebp_.jpg",
+      "price": "0.15",
+      "rating": 3,
+      "stock": 12
+    },
+    {
+      "id": 15,
+      "name": "Who Will Cry When You Die?",
+      "category": "electronics",
+      "image": "https://m.media-amazon.com/images/I/41wKll7ITyL._SY264_BO1,204,203,200_QL40_FMwebp_.jpg",
       "price": "0.15",
       "rating": 3,
       "stock": 12
